@@ -1,0 +1,12 @@
+{
+  "name": "brokenlord-mega-ai-api",
+  "version": "1.0.0",
+  "description": "BROKEN LORD MEGA AI API (Video, Image, Audio, Chat, All-in-one)",
+  "type": "module",
+  "dependencies": {
+    "openai": "latest"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
